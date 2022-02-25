@@ -8,6 +8,7 @@ Updating...
 
 I will also add some notes of each chapter.
 
+The repo is updating....
 
 
 
